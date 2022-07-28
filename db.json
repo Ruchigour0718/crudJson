@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Roshi dubey",
+      "username": "roshu",
+      "email": "roshi@gmail.com",
+      "phone": "1234567890",
+      "website": "audacious.in",
+      "id": 13
+    },
+    {
+      "id": "09239",
+      "name": "Sanjeev",
+      "username": "sanju",
+      "email": "sanju@gmail.com",
+      "phone": "1234567890",
+      "website": "audacious.in"
+    },
+    {
+      "id": "28161",
+      "name": "amit palaiya ",
+      "username": " amit",
+      "email": "ks@gmail.com",
+      "phone": "1234567890",
+      "website": "audacious.in"
+    },
+    {
+      "id": "74453",
+      "name": "Roshni raikwar",
+      "username": "roshni",
+      "email": "roshni@gmail.com",
+      "phone": "123457777777",
+      "website": "audacious.in"
+    },
+    {
+      "id": "33943",
+      "name": "jagdish07",
+      "username": "jagdish ",
+      "email": "jagdish ",
+      "phone": "54465456464",
+      "website": "audacious.in"
+    },
+    {
+      "id": "18906",
+      "name": "ruchi",
+      "username": "ruchi07",
+      "email": "rg@gmail.com",
+      "phone": "897979879879",
+      "website": "audacious.in"
+    },
+    {
+      "id": "19085",
+      "name": "ruchi",
+      "username": "ruchi07",
+      "email": "rg@gmail.com",
+      "phone": "787978798789",
+      "website": "audacious.in"
+    }
+  ]
+}
